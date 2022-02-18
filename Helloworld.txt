@@ -5,3 +5,5 @@ I like cats
 Foobar
 
 I hate ice cream\\\
+
+I like nasi lemak
